@@ -1,6 +1,6 @@
 .title-text{
 	font-size: 200px; 
-	color: purple;
+	color: whitesmoke;
 }
 body {
 	background-color: purple;
@@ -11,10 +11,10 @@ body {
 	border-color: white;
 	text-align: center;
 	background-color: royalblue;
-	color: floralwhite;
-	padding: 200px;
+	color: lightskyblue;
+	padding: 40px;
 	border-radius: 10px;
-	margin: 50px;
+	margin: 500px;
 	width:450px;
 
 }
@@ -26,8 +26,8 @@ body {
 	border-radius: 10px;
 	border-style: solid;
 	border-color: white;
-	background-color: blue;
-	color: white;
+	background-color: royalblue;
+	color: lightskyblue;
 	margin: 10px;
 	width: 1000px;
 	
@@ -37,8 +37,8 @@ body {
 	border-style: solid;
 	border-color: white;
 	text-align: center;
-	background-color: blue;
-	color:white;
+	background-color: royalblue;
+	color: lightskyblue;
 	padding: 20px;
 	border-radius: 10px;
 	margin: 10px;
