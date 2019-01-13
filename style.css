@@ -29,7 +29,8 @@ body {
 	border-color: whitesmoke;
 	background-color: royalblue;
 	color: whitesmoke;
-	margin: 10px;
+	margin-top: 75px;
+    margin-left: 500px;
 	width: 1000px;
 	
 }
@@ -39,10 +40,11 @@ body {
 	border-color: white;
 	text-align: center;
 	background-color: royalblue;
-	color: lightskyblue;
+	color: whitesmoke;
 	padding: 20px;
 	border-radius: 10px;
-	margin: 10px;
+	margin-top: 75px;
+    margin-left: 500px;
 	width: 1000px;
 	
 	}
