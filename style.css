@@ -6,20 +6,20 @@ body {
 	background-color: purple;
 }
 
-.my-cool-box{
+.title-box{
 	border-style: solid;
 	border-color: white;
 	text-align: center;
-	background-color: blue;
-	color: white;
-	padding: 20px;
+	background-color: royalblue;
+	color: floralwhite;
+	padding: 200px;
 	border-radius: 10px;
 	margin: 50px;
 	width:450px;
 
 }
 
-.Even-Better-Box{
+.paragraph1{
 	padding: 20px;
 	margin-top: 20px;
 	text-align: center;
@@ -33,7 +33,7 @@ body {
 	
 }
 
-.box3{
+.paragraph2{
 	border-style: solid;
 	border-color: white;
 	text-align: center;
